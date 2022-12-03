@@ -127,10 +127,10 @@ For TeamBadgerw2, follow the following steps to collaborate:
 
     Fork the repository: Click the "Fork" button on the upper right corner of the Repo page.*
 
-    Make a local clone: Click on the "Code" button on the Repo page Copy the URL for the forked Repo "https://github.com/TeamBadgerw2/alumni_donate.git" 
+  Make a local clone: Click on the "Code" button on the Repo page Copy the URL for the forked Repo "https://github.com/TeamBadgerw2/alumni_donate.git" 
     
-    Create a Folder on your Local machine / Computer for the project Workspace Open Command prompt / Terminal in the same folder location In your Terminal, type:
-    git clone https://github.com/TeamBadgerw2/alumni_donate.git
+  Create a Folder on your Local machine / Computer for the project Workspace Open Command prompt / Terminal in the same folder location In your Terminal, type:
+   git clone https://github.com/TeamBadgerw2/alumni_donate.git
 
     Open terminal and set upstream branch:
     git remote add upstream https://github.com/TeamBadgerw2/alumni_donate
