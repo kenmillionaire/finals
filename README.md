@@ -15,13 +15,6 @@
 
 
 
-Documentation
-
-A more detailed documentation on the updates and details of this project can be found here - "documentationLinkWhenReady"
-Acknowledgements
-
-This project is acknowlegded to Zuri Team for creating this organization and bringing about this project. Special thanks to the sponsors too.
-
 # 📖 About the Project <a name="about-project"></a>
 
 > This is Project phase of an 8week long bootcamp. The project is called alumni_donate.
@@ -199,22 +192,26 @@ Mubarak - Frontend
 
 Beatrice - Frontend   
 
- Batatope Eyitayo - Frontend and Nodejs 
+Batatope Eyitayo - Frontend and Nodejs 
 
-	Oreoluwa Ajayi - Frontend and Nodejs 
+Oreoluwa Ajayi - Frontend and Nodejs 
 
-  Madu Emelie - Backend and Nodejs 
+Madu Emelie - Backend and Nodejs 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
 # 📝 Documentation <a name="documentation"></a>
+
+
+A more detailed documentation on the updates and details of this project can be found here - "documentationLinkWhenReady"
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+This project is acknowlegded to Zuri Team for creating this organization and bringing about this project. Special thanks to the sponsors too.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
