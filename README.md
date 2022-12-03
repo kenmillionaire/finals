@@ -61,11 +61,11 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [alumni_donate] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> Project phase of an 8week long bootcamp. The project is called alumni_donate. A platform that allows college organizations create a simple platform for their alumni to give back to the organization
 
 **[your_project__name]** is a...
 
-## 🛠 Built With <a name="built-with"></a>
+## 🛠 Built With  https://www.figma.com/file/sMAp7j0y3UKCjxD4cXOgH9/User-Flow%2FUser-Stories-Alumni_donate?node-id=0%3A1&t=E0GPKtmeAn7Tx4hI-1 <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -95,6 +95,7 @@ After you're finished please remove all the comments and instructions!
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
+
 
 > Describe between 1-3 key features of the application.
 
