@@ -176,24 +176,13 @@ Temitope Idowu (Team Lead)
     Track - Product Designer
     Email -
 
-Igbinoba Joshua 	  
-    Github- 
-    Track - Product Design
-    
-Matthew Akinkunmi Olarewaju 
+Igbinoba Joshua - Product Design
 
-    Github- 
-    Track - Product Design
+Matthew Akinkunmi Olarewaju - Product Design
 
+Boluwatife Ogunmola - Product Design
 
-
-Boluwatife Ogunmola
-    Github- 
-    Track - Product Design
-
-Temitope Adekunle 	
-    Github- 
-    Track - Product Design
+Temitope Adekunle - Product Design
 
 Baliki 	                          
 
