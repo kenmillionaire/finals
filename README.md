@@ -174,8 +174,7 @@ Temitope Idowu (Team Lead)
 
     Github- 
     Track - Product Designer
-    Email -
-
+   
 Igbinoba Joshua - Product Design
 
 Matthew Akinkunmi Olarewaju - Product Design
@@ -184,51 +183,27 @@ Boluwatife Ogunmola - Product Design
 
 Temitope Adekunle - Product Design
 
-Baliki 	                          
+Baliki - Product Design
 
-    Github- 
-    Track - Product Design
+Daniella - Product Design
 
-Daniella 
-    Github- 
-    Track - Product Design
+Akintola Daniel Fisayo - Product Design
 
-Akintola Daniel Fisayo 
-    Github- 
-    Track - Product Design
+Oluwadamilola Johnson	- Product Design
 
-Oluwadamilola Johnson	
-    Github- 
-    Track - Product Design
+Kehinde Osoba - Frontend
 
+Prince - Frontend
 
-Kehinde Osoba
-    Github- https://github.com/kenmillionaire
-    Track - Frontend
+Mubarak - Frontend
 
-Prince
-    Github- 
-    Track - Frontend
+Beatrice - Frontend   
 
-Mubarak
-    Github- 
-    Track - Frontend
+ Batatope Eyitayo - Frontend and Nodejs 
 
-Beatrice
-    Github- 
-    Track - Frontend   
+	Oreoluwa Ajayi - Frontend and Nodejs 
 
- Batatope Eyitayo
-    Github- 
-    Track - Frontend and Nodejs 
-
-	Oreoluwa Ajayi
-    Github- 
-    Track - Frontend and Nodejs 
-
-  Madu Emelie	                    
-    Github- 
-    Track - Backend and Nodejs 
+  Madu Emelie - Backend and Nodejs 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
