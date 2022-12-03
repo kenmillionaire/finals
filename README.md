@@ -14,33 +14,6 @@
 - [📝 Documentation](#documentation)
 - [🙏 Acknowledgements](#acknowledgements)
 
-
-About the Project
-
-    The project is called alumni_donate. A platform that allows college organizations create a simple platform for their alumni to give back to the organization.
-
-Technologies Used
-
-This project was created with Visual Studio Code and the following technologies were used:
-
-    Design
-    Figma
-
-    Frontend
-    HTML5 CSS3 JavaScript
-
-    Backend
-    Python Django
-
-    Database
-    MySQL
-
-    API
-    DjangoREST
-
-    Project Management and Version Control
-    GitHub
-
 Features
 
 Unauthenticated users - An individual that has not registered to the website
@@ -149,25 +122,12 @@ Acknowledgements
 
 This project is acknowlegded to Zuri Team for creating this organization and bringing about this project. Special thanks to the sponsors too.
 
-<!-- TABLE OF CONTENTS -->
 
-- [📖 About the Project](#about-project)
-- [🛠 Tech Stack](#tech-stack)
-- [🚀Key Features](#key-features)
-- [💻 Product Specification](#product-specification)
-- [⭐️ Usage](#usage)
-- [🔭 Project Status](#project-status)
-- [👥 Authors](#authors)
-- [🤝 Contributors](#contributors)
-- [📝 Documentation](#documentation)
-- [🙏 Acknowledgements](#acknowledgements)
-<!-- PROJECT DESCRIPTION -->
+# 📖 About the Project <a name="about-project"></a>
 
-# 📖 alumni_donate <a name="about-project"></a>
-
-> Project phase of an 8week long bootcamp. The project is called alumni_donate. A platform that allows college organizations create a simple platform for their alumni to give back to the organization
-
-**[your_project__name]** is a...
+> This is Project phase of an 8week long bootcamp. The project is called alumni_donate. 
+   
+**alumni_donate** is a platform that allows college organizations create a simple platform for their alumni to give back to the organization.
 
 # 🛠 Tech Stack <a name="tech-stack"></a>
 
