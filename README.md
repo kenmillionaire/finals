@@ -8,88 +8,12 @@
 - [💻 Product Specification](#product-specification)
 - [⭐️ Usage](#usage)
 - [🔭 Project Status](#project-status)
-- [👥 Authors](#authors)
+- [👥 Collaboration](#collaboration)
 - [🤝 Contributors](#contributors)
 - [📝 Documentation](#documentation)
 - [🙏 Acknowledgements](#acknowledgements)
 
 
-Product Specialization
-
-    Mobile Phones
-    Tablets
-    Laptops
-
-Usage
-
-    Visit the website
-    Surf through basic infromation
-    Sign up
-    Fill registration details
-    Verify email address
-    Proceed to KYC verification
-    Submit required verification documents
-    Get verified
-    Log in
-    Edit profile
-    Full CRUD priviledge
-
-Project Status
-
-Project is : in progress
-Collaboration
-
-For TeamBadgerw2, follow the following steps to collaborate:
-
-    Visit the Repository to the Project on Github Website: https://github.com/TeamBadgerw2/alumni_donate
-
-    Fork the repository: Click the "Fork" button on the upper right corner of the Repo page.*
-
-    Make a local clone: Click on the "Code" button on the Repo page Copy the URL for the forked Repo "https://github.com/TeamBadgerw2/alumni_donate.git" Create a Folder on your Local machine / Computer for the project Workspace Open Command prompt / Terminal in the same folder location In your Terminal, type:
-    git clone https://github.com/github_username/proj_debtors-team-36.git
-
-    Open terminal and set upstream branch:
-    git remote add upstream https://github.com/TeamBadgerw2/alumni_donate
-
-    Pull upstream to get up to date with the original repo:
-    git pull upstream main
-
-    Create a new branch for the task you are working on :
-    git checkout -b branchName
-    (Make sure your branchName is descriptive in context to the feature you are working on. Also be sure to check which branch you are on using git status before you begin working)
-
-    When you're done with your task, do:
-    git add
-        Commit your work with a message:
-        git commit -m "message"
-
-    To avoid conflicts:
-    git pull upstream main
-
-    Then push your branch:
-    git push origin branchName - This creates the branch remotely and pushes to that branch on the Github
-
-    Go to Github and create a new pull request to the main branch. It will then be reviewed and merged into the master.
-
-If you need to make an update, repeat from no 4
-
-Contributors
-
-Temitope Idowu (Team Lead)
-
-    Github- https://github.com/J
-    Track - Product Designer
-    Email -
-
-E (Assistant Team Lead)
-
-    Github- https://github.com/
-    Track -
-
-Kehinde Osoba
-
-    Github- https://github.com/kenmillionaire
-    Track - Frontend
 
 Documentation
 
@@ -154,8 +78,6 @@ This project is acknowlegded to Zuri Team for creating this organization and bri
 
 # 🚀Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **[Unauthenticated users - An individual that has not registered to the website]**
  The website Home page (Landing page). This page will contain:
     - A Hero section with a CTA to Login or Create Account - About Us section - FAQs section - Contact Us section - Footer section
@@ -172,61 +94,80 @@ Login to the website
     Log out
 - **[Donor - An individual that has been posted as a donor**
 
-
-
-
-Features
-
-Unauthenticated users - An individual that has not registered to the website
-
-    The website Home page (Landing page). This page will contain:
-    - A Hero section with a CTA to Login or Create Account - About Us section - FAQs section - Contact Us section - Footer section
-
-Authenticated Users - A user that has fully registered and has completed all the verification processes in the website
-
-    Login to the website
-    Dashboard to edit profile
-    Add new Alumni
-    Full access to Data
-    CRUD priviledge
-    Comment on posts
-    Change Password
-    List of Alumni
-    Help and Support
-    Log out
-
-Donor - An individual that has been posted as a donor
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # 💻 Product Specifications <a name="product-specification"></a>
+
+    Mobile Phones
+    Tablets
+    Laptops
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # ⭐️ Usage <a name="usage"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+    Visit the website
+    Surf through basic infromation
+    Sign up
+    Fill registration details
+    Verify email address
+    Proceed to KYC verification
+    Submit required verification documents
+    Get verified
+    Log in
+    Edit profile
+    Full CRUD priviledge
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # 🔭 Project Status <a name="project-status"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+Project is : in progress
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-# 👥 Authors <a name="authors"></a>
+# 👥 Collaboration <a name="collaboration"></a>
 
-> Mention all of the collaborators of this project.
+For TeamBadgerw2, follow the following steps to collaborate:
 
-👤 **Author1**
+    Visit the Repository to the Project on Github Website: https://github.com/TeamBadgerw2/alumni_donate
+
+    Fork the repository: Click the "Fork" button on the upper right corner of the Repo page.*
+
+    Make a local clone: Click on the "Code" button on the Repo page Copy the URL for the forked Repo "https://github.com/TeamBadgerw2/alumni_donate.git" Create a Folder on your Local machine / Computer for the project Workspace Open Command prompt / Terminal in the same folder location In your Terminal, type:
+    git clone https://github.com/github_username/proj_debtors-team-36.git
+
+    Open terminal and set upstream branch:
+    git remote add upstream https://github.com/TeamBadgerw2/alumni_donate
+
+    Pull upstream to get up to date with the original repo:
+    git pull upstream main
+
+    Create a new branch for the task you are working on :
+    git checkout -b branchName
+    (Make sure your branchName is descriptive in context to the feature you are working on. Also be sure to check which branch you are on using git status before you begin working)
+
+    When you're done with your task, do:
+    git add
+        Commit your work with a message:
+        git commit -m "message"
+
+    To avoid conflicts:
+    git pull upstream main
+
+    Then push your branch:
+    git push origin branchName - This creates the branch remotely and pushes to that branch on the Github
+
+    Go to Github and create a new pull request to the main branch. It will then be reviewed and merged into the master.
+
+If you need to make an update, repeat from no 4
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+# 🤝 Contributors <a name="contributors"></a>
+
+👤**Author1**
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
@@ -236,15 +177,45 @@ If you like this project...
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle) 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-# 🤝 Contributors <a name="contributors"></a>
 
-Contributions, issues, and feature requests are welcome!
+1	  Temitope Idowu	                  Product Design  (TEAM LEAD)
+2. 	Baliki 	                          Product Design
+3	  Matthew Akinkunmi Olarewaju 	    Product Design 
+4. 	Temitope Adekunle 	              Product Design
+5. 	Boluwatife Ogunmola 	            Product Design
+6. 	Daniella 	                        Product Design
+7. 	Akintola Daniel Fisayo 	          Product Design
+8.	Oluwadamilola Johnson	            Product Design
+9. 	Igbinoba Joshua 	                Product Design 
+10. 	Prince 	                        Frontend 
+12. 	Mubarak 	                      Frontend 
+12. 	Kehinde Osoba 	                Frontend 
+13. 	Beatrice 	                      Frontend 
+14. 	Batatope Eyitayo 	              Frontend and Nodejs 
+15. 	Oreoluwa Ajayi 	                Frontend and Nodejs 
+16. 	Madu Emelie	                    Backend and Nodejs 
 
-Feel free to check the [issues page](../../issues/).
+
+Contributors
+
+Temitope Idowu (Team Lead)
+
+    Github- https://github.com/J
+    Track - Product Designer
+    Email -
+
+E (Assistant Team Lead)
+
+    Github- https://github.com/
+    Track -
+
+Kehinde Osoba
+
+    Github- https://github.com/kenmillionaire
+    Track - Frontend
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
