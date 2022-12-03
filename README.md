@@ -163,20 +163,46 @@ This project is acknowlegded to Zuri Team for creating this organization and bri
 - [🙏 Acknowledgements](#acknowledgements)
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [alumni_donate] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> Project phase of an 8week long bootcamp. The project is called alumni_donate. A platform that allows college organizations create a simple platform for their alumni to give back to the organization
 
 **[your_project__name]** is a...
 
+<<<<<<< HEAD
 # 🛠 [Tech Stack] <a name="tech-stack"></a>
+=======
+## 🛠 Built With  <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+>>>>>>> 7f19464e1779afe59b219df2b033a5bc2fa8fc8e
 
 > Describe the tech stack and include only the relevant sections that apply to your project.
 
+This project was created with Visual Studio Code and the following technologies were used:
+
+Design
+Figma
+
+Frontend
+HTML5 CSS3 JavaScript
+
+Backend
+Python Django
+
+Database
+MySQL
+
+API
+DjangoREST
+
+Project Management and Version Control
+GitHub
+
 <details>
-  <summary>Client</summary>
+  <summary>Design</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://reactjs.org](https://www.figma.com/file/sMAp7j0y3UKCjxD4cXOgH9/User-Flow%2FUser-Stories-Alumni_donate?node-id=0%3A1&t=E0GPKtmeAn7Tx4hI-1/">Figma</a></li>
   </ul>
 </details>
 
@@ -198,6 +224,7 @@ This project is acknowlegded to Zuri Team for creating this organization and bri
 
 # Key Features <a name="key-features"></a>
 🚀Key Features](#key-features)
+
 
 > Describe between 1-3 key features of the application.
 
