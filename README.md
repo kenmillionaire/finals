@@ -134,7 +134,9 @@ For TeamBadgerw2, follow the following steps to collaborate:
 
     Fork the repository: Click the "Fork" button on the upper right corner of the Repo page.*
 
-    Make a local clone: Click on the "Code" button on the Repo page Copy the URL for the forked Repo "https://github.com/TeamBadgerw2/alumni_donate.git" Create a Folder on your Local machine / Computer for the project Workspace Open Command prompt / Terminal in the same folder location In your Terminal, type:
+    Make a local clone: Click on the "Code" button on the Repo page Copy the URL for the forked Repo "https://github.com/TeamBadgerw2/alumni_donate.git" 
+    
+    Create a Folder on your Local machine / Computer for the project Workspace Open Command prompt / Terminal in the same folder location In your Terminal, type:
     git clone https://github.com/github_username/proj_debtors-team-36.git
 
     Open terminal and set upstream branch:
@@ -145,7 +147,8 @@ For TeamBadgerw2, follow the following steps to collaborate:
 
     Create a new branch for the task you are working on :
     git checkout -b branchName
-    (Make sure your branchName is descriptive in context to the feature you are working on. Also be sure to check which branch you are on using git status before you begin working)
+    (Make sure your branchName is descriptive in context to the feature you are working on. 
+    Also be sure to check which branch you are on using git status before you begin working)
 
     When you're done with your task, do:
     git add
@@ -167,55 +170,74 @@ If you need to make an update, repeat from no 4
 
 # 🤝 Contributors <a name="contributors"></a>
 
-👤**Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle) 
-
-
-
-1	  Temitope Idowu	                  Product Design  (TEAM LEAD)
-2. 	Baliki 	                          Product Design
-3	  Matthew Akinkunmi Olarewaju 	    Product Design 
-4. 	Temitope Adekunle 	              Product Design
-5. 	Boluwatife Ogunmola 	            Product Design
-6. 	Daniella 	                        Product Design
-7. 	Akintola Daniel Fisayo 	          Product Design
-8.	Oluwadamilola Johnson	            Product Design
-9. 	Igbinoba Joshua 	                Product Design 
-10. 	Prince 	                        Frontend 
-12. 	Mubarak 	                      Frontend 
-12. 	Kehinde Osoba 	                Frontend 
-13. 	Beatrice 	                      Frontend 
-14. 	Batatope Eyitayo 	              Frontend and Nodejs 
-15. 	Oreoluwa Ajayi 	                Frontend and Nodejs 
-16. 	Madu Emelie	                    Backend and Nodejs 
-
-
-Contributors
-
 Temitope Idowu (Team Lead)
 
-    Github- https://github.com/J
+    Github- 
     Track - Product Designer
     Email -
 
-E (Assistant Team Lead)
+Baliki 	                          
 
-    Github- https://github.com/
-    Track -
+    Github- 
+    Track - Product Design
+
+Matthew Akinkunmi Olarewaju 
+
+    Github- 
+    Track - Product Design
+
+Temitope Adekunle 	
+    Github- 
+    Track - Product Design
+
+Igbinoba Joshua 	  
+    Github- 
+    Track - Product Design
+
+Boluwatife Ogunmola
+    Github- 
+    Track - Product Design
+
+Daniella 
+    Github- 
+    Track - Product Design
+
+Akintola Daniel Fisayo 
+    Github- 
+    Track - Product Design
+
+Oluwadamilola Johnson	
+    Github- 
+    Track - Product Design
+
 
 Kehinde Osoba
-
     Github- https://github.com/kenmillionaire
     Track - Frontend
+
+Prince
+    Github- 
+    Track - Frontend
+
+Mubarak
+    Github- 
+    Track - Frontend
+
+Beatrice
+    Github- 
+    Track - Frontend   
+
+ Batatope Eyitayo
+    Github- 
+    Track - Frontend and Nodejs 
+
+	Oreoluwa Ajayi
+    Github- 
+    Track - Frontend and Nodejs 
+
+  Madu Emelie	                    
+    Github- 
+    Track - Backend and Nodejs 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
