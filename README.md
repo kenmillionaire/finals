@@ -94,7 +94,7 @@ GitHub
 <details>
   <summary>Design</summary>
   <ul>
-    <li><a href="[https://reactjs.org](https://www.figma.com/file/sMAp7j0y3UKCjxD4cXOgH9/User-Flow%2FUser-Stories-Alumni_donate?node-id=0%3A1&t=E0GPKtmeAn7Tx4hI-1 )/">Figma</a></li>
+    <li><a href="https://reactjs.org](https://www.figma.com/file/sMAp7j0y3UKCjxD4cXOgH9/User-Flow%2FUser-Stories-Alumni_donate?node-id=0%3A1&t=E0GPKtmeAn7Tx4hI-1/">Figma</a></li>
   </ul>
 </details>
 
