@@ -163,19 +163,13 @@ This project is acknowlegded to Zuri Team for creating this organization and bri
 - [🙏 Acknowledgements](#acknowledgements)
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [alumni_donate] <a name="about-project"></a>
+# 📖 alumni_donate <a name="about-project"></a>
 
 > Project phase of an 8week long bootcamp. The project is called alumni_donate. A platform that allows college organizations create a simple platform for their alumni to give back to the organization
 
 **[your_project__name]** is a...
 
-<<<<<<< HEAD
-# 🛠 [Tech Stack] <a name="tech-stack"></a>
-=======
-## 🛠 Built With  <a name="built-with"></a>
-
-### Tech Stack <a name="tech-stack"></a>
->>>>>>> 7f19464e1779afe59b219df2b033a5bc2fa8fc8e
+# 🛠 Tech Stack <a name="tech-stack"></a>
 
 > Describe the tech stack and include only the relevant sections that apply to your project.
 
@@ -222,9 +216,7 @@ GitHub
 
 <!-- Features -->
 
-# Key Features <a name="key-features"></a>
-🚀Key Features](#key-features)
-
+# 🚀Key Features <a name="key-features"></a>
 
 > Describe between 1-3 key features of the application.
 
@@ -234,52 +226,30 @@ GitHub
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
+# 💻 Product Specifications <a name="product-specification"></a>
 
-
-
-
-### Usage
-
-To run the project, execute the following command:
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
+# ⭐️ Usage <a name="usage"></a>
 
-## 👥 Authors <a name="authors"></a>
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **[new_feature_1]**
+- [ ] **[new_feature_2]**
+- [ ] **[new_feature_3]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+# 🔭 Project Status <a name="project-status"></a>
+
+> Write a message to encourage readers to support your project
+
+If you like this project...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+# 👥 Authors <a name="authors"></a>
 
 > Mention all of the collaborators of this project.
 
@@ -297,19 +267,7 @@ Example:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
 
-## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -319,19 +277,12 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
 
-## ⭐️ Show your support <a name="support"></a>
+📝 Documentation](#documentation)
 
-> Write a message to encourage readers to support your project
 
-If you like this project...
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
+# 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 > Give credit to everyone who inspired your codebase.
 
@@ -339,28 +290,9 @@ I would like to thank...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
 
-## ❓ FAQ <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**
 
-  - [Answer_1]
 
-- **[Question_2]**
 
-  - [Answer_2]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
-
-## 📝 License <a name="license"></a>
-
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
