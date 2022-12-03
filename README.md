@@ -13,27 +13,6 @@
 - [📝 Documentation](#documentation)
 - [🙏 Acknowledgements](#acknowledgements)
 
-Features
-
-Unauthenticated users - An individual that has not registered to the website
-
-    The website Home page (Landing page). This page will contain:
-    - A Hero section with a CTA to Login or Create Account - About Us section - FAQs section - Contact Us section - Footer section
-
-Authenticated Users - A user that has fully registered and has completed all the verification processes in the website
-
-    Login to the website
-    Dashboard to edit profile
-    Add new Alumni
-    Full access to Data
-    CRUD priviledge
-    Comment on posts
-    Change Password
-    List of Alumni
-    Help and Support
-    Log out
-
-Donor - An individual that has been posted as a donor
 
 Product Specialization
 
@@ -160,7 +139,7 @@ This project is acknowlegded to Zuri Team for creating this organization and bri
 <details>
 <summary>API</summary>
   <ul>
-    <li><a href=""DjangoREST</a></li>
+    <li><a href="">DjangoREST</a></li>
   </ul>
 </details>
 
@@ -177,9 +156,47 @@ This project is acknowlegded to Zuri Team for creating this organization and bri
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[Unauthenticated users - An individual that has not registered to the website]**
+ The website Home page (Landing page). This page will contain:
+    - A Hero section with a CTA to Login or Create Account - About Us section - FAQs section - Contact Us section - Footer section
+- **[Authenticated Users - A user that has fully registered and has completed all the verification processes in the website]**
+Login to the website
+    Dashboard to edit profile
+    Add new Alumni
+    Full access to Data
+    CRUD priviledge
+    Comment on posts
+    Change Password
+    List of Alumni
+    Help and Support
+    Log out
+- **[Donor - An individual that has been posted as a donor**
+
+
+
+
+Features
+
+Unauthenticated users - An individual that has not registered to the website
+
+    The website Home page (Landing page). This page will contain:
+    - A Hero section with a CTA to Login or Create Account - About Us section - FAQs section - Contact Us section - Footer section
+
+Authenticated Users - A user that has fully registered and has completed all the verification processes in the website
+
+    Login to the website
+    Dashboard to edit profile
+    Add new Alumni
+    Full access to Data
+    CRUD priviledge
+    Comment on posts
+    Change Password
+    List of Alumni
+    Help and Support
+    Log out
+
+Donor - An individual that has been posted as a donor
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
