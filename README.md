@@ -269,7 +269,7 @@ If you like this project...
 
 
 
-## 🤝 Contributing <a name="contributing"></a>
+# 🤝 Contributors <a name="contributors"></a>
 
 Contributions, issues, and feature requests are welcome!
 
@@ -278,9 +278,10 @@ Feel free to check the [issues page](../../issues/).
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-# 📝 Documentation](#documentation)
+# 📝 Documentation <a name="documentation"></a>
 
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # 🙏 Acknowledgments <a name="acknowledgements"></a>
 
