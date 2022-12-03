@@ -1,4 +1,3 @@
-
 <a name="readme-top"></a>
 
 # 📗 Table of Contents
@@ -35,8 +34,6 @@ Authenticated Users - A user that has fully registered and has completed all the
     Log out
 
 Donor - An individual that has been posted as a donor
-
-   
 
 Product Specialization
 
@@ -103,9 +100,9 @@ Temitope Idowu (Team Lead)
 
     Github- https://github.com/J
     Track - Product Designer
-    Email - 
+    Email -
 
-E   (Assistant Team Lead)
+E (Assistant Team Lead)
 
     Github- https://github.com/
     Track -
@@ -122,36 +119,15 @@ Acknowledgements
 
 This project is acknowlegded to Zuri Team for creating this organization and bringing about this project. Special thanks to the sponsors too.
 
-
 # 📖 About the Project <a name="about-project"></a>
 
-> This is Project phase of an 8week long bootcamp. The project is called alumni_donate. 
-   
+> This is Project phase of an 8week long bootcamp. The project is called alumni_donate.
+
 **alumni_donate** is a platform that allows college organizations create a simple platform for their alumni to give back to the organization.
 
 # 🛠 Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
-This project was created with Visual Studio Code and the following technologies were used:
-
-Design
-Figma
-
-Frontend
-HTML5 CSS3 JavaScript
-
-Backend
-Python Django
-
-Database
-MySQL
-
-API
-DjangoREST
-
-Project Management and Version Control
-GitHub
+> This project was created with Visual Studio Code and the following technologies were used:
 
 <details>
   <summary>Design</summary>
@@ -161,16 +137,37 @@ GitHub
 </details>
 
 <details>
-  <summary>Server</summary>
+  <summary>Frontend</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li><a href="html5.com/">HTML5 CSS3 JavaScript</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Backend</summary>
+  <ul>
+    <li><a href="https://python.com/">Python Django</a></li>
   </ul>
 </details>
 
 <details>
 <summary>Database</summary>
   <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="https://www.mysql.org/">MySQL</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>API</summary>
+  <ul>
+    <li><a href=""DjangoREST</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Project Management and Version Control</summary>
+  <ul>
+    <li><a href="https://github.com/zuri-training/Team-Badgerw2/">GitHub</a></li>
   </ul>
 </details>
 
@@ -187,7 +184,6 @@ GitHub
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # 💻 Product Specifications <a name="product-specification"></a>
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -227,8 +223,6 @@ If you like this project...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 # 🤝 Contributors <a name="contributors"></a>
 
 Contributions, issues, and feature requests are welcome!
@@ -237,9 +231,7 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 # 📝 Documentation <a name="documentation"></a>
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -250,10 +242,3 @@ Feel free to check the [issues page](../../issues/).
 I would like to thank...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
-
-
-
