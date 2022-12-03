@@ -180,25 +180,20 @@ Matthew Akinkunmi Olarewaju
 
     Github- 
     Track - Product Design
-
-Baliki 	                          
-
-    Github- 
-    Track - Product Design
-
-    
-
-
-
-Temitope Adekunle 	
-    Github- 
-    Track - Product Design
-
 Igbinoba Joshua 	  
     Github- 
     Track - Product Design
 
 Boluwatife Ogunmola
+    Github- 
+    Track - Product Design
+
+Temitope Adekunle 	
+    Github- 
+    Track - Product Design
+
+Baliki 	                          
+
     Github- 
     Track - Product Design
 
