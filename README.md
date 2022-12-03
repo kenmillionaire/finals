@@ -176,13 +176,16 @@ Temitope Idowu (Team Lead)
     Track - Product Designer
     Email -
 
+Igbinoba Joshua 	  
+    Github- 
+    Track - Product Design
+    
 Matthew Akinkunmi Olarewaju 
 
     Github- 
     Track - Product Design
-Igbinoba Joshua 	  
-    Github- 
-    Track - Product Design
+
+
 
 Boluwatife Ogunmola
     Github- 
