@@ -183,7 +183,7 @@ Igbinoba Joshua - Product Design
 
 Jen Ezieke - Product Design
 
-Kehinde Osoba - Frontend
+Kehinde Oyeronke Osoba - Frontend
 
 Prince - Frontend
 
