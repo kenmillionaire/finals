@@ -13,8 +13,6 @@
 - [📝 Documentation](#documentation)
 - [🙏 Acknowledgements](#acknowledgements)
 
-
-
 # 📖 About the Project <a name="about-project"></a>
 
 > This is Project phase of an 8week long bootcamp. The project is called alumni_donate.
@@ -42,7 +40,7 @@
 <details>
   <summary>Backend</summary>
   <ul>
-    <li><a href="https://python.com/">Python Django</a></li>
+    <li><a href="https://nodejs.com/">Nodejs</a></li>
   </ul>
 </details>
 
@@ -56,7 +54,7 @@
 <details>
 <summary>API</summary>
   <ul>
-    <li><a href="">DjangoREST</a></li>
+    <li><a href="espressjs.com">Expressjs</a></li>
   </ul>
 </details>
 
@@ -72,19 +70,19 @@
 # 🚀Key Features <a name="key-features"></a>
 
 - **[Unauthenticated users - An individual that has not registered to the website]**
- The website Home page (Landing page). This page will contain:
-    - A Hero section with a CTA to Login or Create Account - About Us section - FAQs section - Contact Us section - Footer section
+  The website Home page (Landing page). This page will contain:
+  - A Hero section with a CTA to Login or Create Account - About Us section - FAQs section - Contact Us section - Footer section
 - **[Authenticated Users - A user that has fully registered and has completed all the verification processes in the website]**
-Login to the website
-    Dashboard to edit profile
-    Add new Alumni
-    Full access to Data
-    CRUD priviledge
-    Comment on posts
-    Change Password
-    List of Alumni
-    Help and Support
-    Log out
+  Login to the website
+  Dashboard to edit profile
+  Add new Alumni
+  Full access to Data
+  CRUD priviledge
+  Comment on posts
+  Change Password
+  List of Alumni
+  Help and Support
+  Log out
 - **[Donor - An individual that has been posted as a donor**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -127,10 +125,10 @@ For TeamBadgerw2, follow the following steps to collaborate:
 
     Fork the repository: Click the "Fork" button on the upper right corner of the Repo page.*
 
-  Make a local clone: Click on the "Code" button on the Repo page Copy the URL for the forked Repo "https://github.com/TeamBadgerw2/alumni_donate.git" 
-    
-  Create a Folder on your Local machine / Computer for the project Workspace Open Command prompt / Terminal in the same folder location In your Terminal, type:
-   git clone https://github.com/TeamBadgerw2/alumni_donate.git
+Make a local clone: Click on the "Code" button on the Repo page Copy the URL for the forked Repo "https://github.com/TeamBadgerw2/alumni_donate.git"
+
+Create a Folder on your Local machine / Computer for the project Workspace Open Command prompt / Terminal in the same folder location In your Terminal, type:
+git clone https://github.com/TeamBadgerw2/alumni_donate.git
 
     Open terminal and set upstream branch:
     git remote add upstream https://github.com/TeamBadgerw2/alumni_donate
@@ -140,7 +138,7 @@ For TeamBadgerw2, follow the following steps to collaborate:
 
     Create a new branch for the task you are working on :
     git checkout -b branchName
-    (Make sure your branchName is descriptive in context to the feature you are working on. 
+    (Make sure your branchName is descriptive in context to the feature you are working on.
     Also be sure to check which branch you are on using git status before you begin working)
 
     When you're done with your task, do:
@@ -160,15 +158,12 @@ If you need to make an update, repeat from no 4
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 # 🤝 Contributors <a name="contributors"></a>
 
 Temitope Idowu (Team Lead)
 
-    Github- 
-    Track - Product Designer
-   
-Igbinoba Joshua - Product Design
+    Github-
+    Track - Product Design
 
 Matthew Akinkunmi Olarewaju - Product Design
 
@@ -182,7 +177,11 @@ Daniella - Product Design
 
 Akintola Daniel Fisayo - Product Design
 
-Oluwadamilola Johnson	- Product Design
+Oluwadamilola Johnson - Product Design
+
+Igbinoba Joshua - Product Design
+
+Jen Ezieke - Product Design
 
 Kehinde Osoba - Frontend
 
@@ -190,27 +189,23 @@ Prince - Frontend
 
 Mubarak - Frontend
 
-Beatrice - Frontend   
+Beatrice - Frontend
 
-Batatope Eyitayo - Frontend and Nodejs 
+Batatope Eyitayo - Frontend and Nodejs
 
-Oreoluwa Ajayi - Frontend and Nodejs 
+Oreoluwa Ajayi - Frontend and Nodejs
 
-Madu Emelie - Backend and Nodejs 
+Madu Emelie - Backend and Nodejs
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 # 📝 Documentation <a name="documentation"></a>
 
-
 A more detailed documentation on the updates and details of this project can be found here - "documentationLinkWhenReady"
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # 🙏 Acknowledgments <a name="acknowledgements"></a>
-
 
 This project is acknowlegded to Zuri Team for creating this organization and bringing about this project. Special thanks to the sponsors too.
 
