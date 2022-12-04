@@ -121,22 +121,22 @@ Project is : in progress
 
 For TeamBadgerw2, follow the following steps to collaborate:
 
-    Visit the Repository to the Project on Github Website: https://github.com/zuri-training/Team-Badgerw2
+1] Visit the Repository to the Project on Github Website: https://github.com/zuri-training/Team-Badgerw2
 
-    Fork the repository: Click the "Fork" button on the upper right corner of the Repo page.*
+2] Fork the repository: Click the "Fork" button on the upper right corner of the Repo page.*
 
-Make a local clone: Click on the "Code" button on the Repo page Copy the URL for the forked Repo "https://github.com/zuri-training/Team-Badgerw2.git"
+3] Make a local clone: Click on the "Code" button on the Repo page Copy the URL for the forked Repo "https://github.com/zuri-training/Team-Badgerw2.git"
 
-Create a Folder on your Local machine / Computer for the project Workspace Open Command prompt / Terminal in the same folder location In your Terminal, type:
+   Create a Folder on your Local machine / Computer for the project Workspace Open Command prompt / Terminal in the same folder location In your Terminal, type:
 git clone https://github.com/zuri-training/Team-Badgerw2.git
 
-    Open terminal and set upstream branch:
+4] Open terminal and set upstream branch:
     git remote add upstream https://github.com/zuri-training/Team-Badgerw2
 
-    Pull upstream to get up to date with the original repo:
+5] Pull upstream to get up to date with the original repo:
     git pull upstream main
 
-    Create a new branch for the task you are working on :
+6] Create a new branch for the task you are working on :
     git checkout -b branchName
     (Make sure your branchName is descriptive in context to the feature you are working on.
     Also be sure to check which branch you are on using git status before you begin working)
